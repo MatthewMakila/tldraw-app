@@ -8,7 +8,7 @@
 
 ### Installation
 ```batch
-git clone ...
+git clone https://github.com/MatthewMakila/tldraw-app.git
 cd tldraw-prototype
 npm install
 ```
